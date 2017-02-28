@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\500138477\desktop\cpp-arrays-lab3\lab ex 3 - arrays\main.cpp(34): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Lab Ex 3 - Arrays.vcxproj -> C:\Users\500138477\Desktop\cpp-arrays-lab3\Debug\Lab Ex 3 - Arrays.exe
+  Lab Ex 3 - Arrays.vcxproj -> C:\Users\500138477\Desktop\cpp-arrays-lab3\Debug\Lab Ex 3 - Arrays.pdb (Partial PDB)
