@@ -15,11 +15,18 @@
 
 #include <iostream>
 #include <conio.h>
+#include <vector>
 
 using namespace std;
 
 int main()
 {
+	
+	
+	cout << "Please enter at least 5 numbers: ";
+
+
+
 
 
 	_getch();
